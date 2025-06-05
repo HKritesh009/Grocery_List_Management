@@ -51,12 +51,6 @@ A dynamic and user-friendly **Grocery List Management** system built using **HTM
 
 ---
 
-## 📸 Screenshots
-
-> 📷 _You can add screenshots here to show how the UI looks for adding, filtering, and managing items._
-
----
-
 ## 💡 Future Enhancements
 
 - Add user login/authentication
