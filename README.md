@@ -29,9 +29,6 @@ A dynamic and user-friendly **Grocery List Management** system built using **HTM
 
 ---
 
-
----
-
 ## 🛠️ Setup Instructions
 
 1. **Start XAMPP**
@@ -40,7 +37,7 @@ A dynamic and user-friendly **Grocery List Management** system built using **HTM
 2. **Import Database**
    - Open `phpMyAdmin` at `http://localhost/phpmyadmin`
    - Create a new database (e.g., `grocery_db`)
-   - Import the provided SQL file (`grocery.sql`)
+   - Import the provided SQL file (`grocery.db`)
 
 3. **Configure Database**
    - Update `db/config.php` with your DB credentials if needed.
